@@ -1,0 +1,179 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 2,
+      "productName": "Elbise",
+      "unitPrice": 500,
+      "unitsInStock": 53
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "productName": "Saat",
+      "unitPrice": 3000,
+      "unitsInStock": 17
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "productName": "Laptop",
+      "unitPrice": 15000,
+      "unitsInStock": 53
+    },
+    {
+      "id": 5,
+      "categoryId": 2,
+      "productName": "Pantolon",
+      "unitPrice": 1000,
+      "unitsInStock": 0
+    },
+    {
+      "id": 6,
+      "categoryId": 2,
+      "productName": "Kemer",
+      "unitPrice": 300,
+      "unitsInStock": 120
+    },
+    {
+      "id": 7,
+      "categoryId": 7,
+      "productName": "Deterjan",
+      "unitPrice": 50,
+      "unitsInStock": 15
+    },
+    {
+      "id": 8,
+      "categoryId": 2,
+      "productName": "Çorap",
+      "unitPrice": 40,
+      "unitsInStock": 100
+    },
+    {
+      "id": 9,
+      "categoryId": 6,
+      "productName": "Basket Topu",
+      "unitPrice": 200,
+      "unitsInStock": 29
+    },
+    {
+      "id": 10,
+      "categoryId": 8,
+      "productName": "Kitap",
+      "unitPrice": 50,
+      "unitsInStock": 31
+    },
+    {
+      "id": 11,
+      "categoryId": 4,
+      "productName": "Çizik Giderici",
+      "unitPrice": 100,
+      "unitsInStock": 22
+    },
+    {
+      "id": 12,
+      "categoryId": 4,
+      "productName": "Bitki İlacı",
+      "unitPrice": 150,
+      "unitsInStock": 86
+    },
+    {
+      "id": 13,
+      "categoryId": 8,
+      "productName": "Albüm",
+      "unitPrice": 60,
+      "unitsInStock": 24
+    },
+    {
+      "id": 14,
+      "categoryId": 7,
+      "productName": "Mama",
+      "unitPrice": 180,
+      "unitsInStock": 35
+    },
+    {
+      "id": 15,
+      "categoryId": 2,
+      "productName": "T-shirt",
+      "unitPrice": 100,
+      "unitsInStock": 39
+    },
+    {
+      "id": 16,
+      "categoryId": 3,
+      "productName": "Nevresim",
+      "unitPrice": 300,
+      "unitsInStock": 29
+    },
+    {
+      "id": 17,
+      "categoryId": 6,
+      "productName": "Bisiklet",
+      "unitPrice": 3000,
+      "unitsInStock": 0
+    },
+    {
+      "id": 18,
+      "categoryId": 8,
+      "productName": "Fim",
+      "unitPrice": 30,
+      "unitsInStock": 42
+    },
+    {
+      "id": 19,
+      "categoryId": 3,
+      "productName": "Kitap",
+      "unitPrice": 50,
+      "unitsInStock": 25
+    },
+    {
+      "id": 20,
+      "categoryId": 3,
+      "productName": "A4 Kağıt",
+      "unitPrice": 120,
+      "unitsInStock": 40
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Elektronik",
+      "seoUrl": "elektronik"
+    },
+    {
+      "id": 2,
+      "categoryName": "Moda",
+      "seoUrl": "moda"
+    },
+    {
+      "id": 3,
+      "categoryName": "Ev, Yaşam, Kırtasiye, Ofis",
+      "seoUrl": "ev"
+    },
+    {
+      "id": 4,
+      "categoryName": "Oto, Bahçe, Yapı Market",
+      "seoUrl": "oto"
+    },
+    {
+      "id": 5,
+      "categoryName": "Anne, Bebek, Oyuncak",
+      "seoUrl": "anne"
+    },
+    {
+      "id": 6,
+      "categoryName": "Spor, Outdoor",
+      "seoUrl": "spor"
+    },
+    {
+      "id": 7,
+      "categoryName": "Süpermarket, Pet Shop",
+      "seoUrl": "supermarket"
+    },
+    {
+      "id": 8,
+      "categoryName": "Kitap, Müzik, Film, Hobi",
+      "seoUrl": "kitap"
+    }
+  ]
+}
